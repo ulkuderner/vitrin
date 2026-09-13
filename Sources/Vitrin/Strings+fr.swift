@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "Le raccourci est capté par un CGEvent tap. Les fenêtres proviennent de CGWindowList, les réduites de l'API d'accessibilité. Les aperçus sont capturés en parallèle avec ScreenCaptureKit.",
         "about.perms": "Autorisations requises",
         "about.perms.body": "Accessibilité : pour entendre le raccourci et mettre les fenêtres au premier plan. Enregistrement de l'écran : pour les titres et les aperçus.",
+        "about.license": "Licence",
+        "about.license.body": "Licence publique générale GNU v3.0. Libre d'utilisation, d'étude, de modification et de partage ; les œuvres dérivées doivent rester ouvertes sous la même licence.",
+        "about.source": "Code source",
         "about.copy": "Copier la version",
         "about.author": "Conception et développement",
 

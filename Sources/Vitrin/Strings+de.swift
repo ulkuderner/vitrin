@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "Das Kürzel wird über einen CGEvent-Tap erfasst. Fenster stammen aus CGWindowList, minimierte aus der Accessibility-API. Vorschauen entstehen parallel mit ScreenCaptureKit.",
         "about.perms": "Erforderliche Berechtigungen",
         "about.perms.body": "Bedienungshilfen: um das Kürzel zu hören und Fenster nach vorn zu holen. Bildschirmaufnahme: für Titel und Vorschauen.",
+        "about.license": "Lizenz",
+        "about.license.body": "GNU General Public License v3.0. Frei nutzbar, studierbar, veränderbar und teilbar; abgeleitete Werke müssen unter derselben Lizenz offen bleiben.",
+        "about.source": "Quellcode",
         "about.copy": "Version kopieren",
         "about.author": "Design und Entwicklung",
 

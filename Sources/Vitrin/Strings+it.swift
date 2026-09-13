@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "La scorciatoia viene catturata con un CGEvent tap. Le finestre arrivano da CGWindowList, quelle ridotte dall'API di accessibilità. Le anteprime sono acquisite in parallelo con ScreenCaptureKit.",
         "about.perms": "Permessi necessari",
         "about.perms.body": "Accessibilità: per sentire la scorciatoia e portare le finestre in primo piano. Registrazione schermo: per titoli e anteprime.",
+        "about.license": "Licenza",
+        "about.license.body": "Licenza Pubblica Generica GNU v3.0. Libera di usare, studiare, modificare e condividere; le opere derivate devono restare aperte con la stessa licenza.",
+        "about.source": "Codice sorgente",
         "about.copy": "Copia versione",
         "about.author": "Progettazione e sviluppo",
 

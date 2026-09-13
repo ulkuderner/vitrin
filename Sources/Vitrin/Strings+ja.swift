@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "ショートカットは CGEvent tap で捕まえます。ウインドウ一覧は CGWindowList から、しまってあるものはアクセシビリティ API から取得します。プレビューは ScreenCaptureKit で並行して取得します。",
         "about.perms": "必要な許可",
         "about.perms.body": "アクセシビリティ: ショートカットを受け取り、ウインドウを前面に出すため。画面収録: タイトルとプレビューのため。",
+        "about.license": "ライセンス",
+        "about.license.body": "GNU 一般公衆利用許諾書 v3.0。自由に使用・調査・改変・共有できます。派生物も同じライセンスで公開する必要があります。",
+        "about.source": "ソースコード",
         "about.copy": "バージョンをコピー",
         "about.author": "デザインと開発",
 

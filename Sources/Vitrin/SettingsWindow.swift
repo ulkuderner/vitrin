@@ -251,6 +251,25 @@ struct SettingsView: View {
                 aboutRow("about.perms", "about.perms.body", "lock.shield")
             }
 
+            Card {
+                aboutRow("about.license", "about.license.body", "scale.3d")
+                Divider()
+                HStack(alignment: .top, spacing: 10) {
+                    Image(systemName: "chevron.left.forwardslash.chevron.right")
+                        .font(.system(size: 13))
+                        .foregroundStyle(Color.accentColor)
+                        .frame(width: 18, height: 18)
+                    VStack(alignment: .leading, spacing: 3) {
+                        Text(L10n.t("about.source"))
+                            .font(.system(size: 12, weight: .semibold))
+                        Link("github.com/ulkuderner/vitrin",
+                             destination: URL(string: "https://github.com/ulkuderner/vitrin")!)
+                            .font(.system(size: 12))
+                    }
+                    Spacer()
+                }
+            }
+
             HStack {
                 Button(L10n.t("about.copy")) {
                     NSPasteboard.general.clearContents()

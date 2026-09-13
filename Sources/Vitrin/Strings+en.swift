@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "The shortcut is captured with a CGEvent tap. Windows come from CGWindowList, minimized ones from the Accessibility API. Previews are captured in parallel with ScreenCaptureKit.",
         "about.perms": "Required permissions",
         "about.perms.body": "Accessibility: to hear the shortcut and raise windows. Screen recording: for titles and previews.",
+        "about.license": "License",
+        "about.license.body": "GNU General Public License v3.0. Free to use, study, modify and share; derived works must stay open under the same licence.",
+        "about.source": "Source code",
         "about.copy": "Copy version",
         "about.author": "Design and development",
 

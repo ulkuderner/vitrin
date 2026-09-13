@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "De sneltoets wordt met een CGEvent tap opgevangen. Vensters komen uit CGWindowList, geminimaliseerde uit de Accessibility-API. Voorvertoningen worden parallel gemaakt met ScreenCaptureKit.",
         "about.perms": "Vereiste toegang",
         "about.perms.body": "Toegankelijkheid: om de sneltoets te horen en vensters naar voren te halen. Schermopname: voor titels en voorvertoningen.",
+        "about.license": "Licentie",
+        "about.license.body": "GNU General Public License v3.0. Vrij te gebruiken, bestuderen, wijzigen en delen; afgeleide werken moeten onder dezelfde licentie open blijven.",
+        "about.source": "Broncode",
         "about.copy": "Versie kopiëren",
         "about.author": "Ontwerp en ontwikkeling",
 

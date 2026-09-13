@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "Skrót przechwytuje CGEvent tap. Okna pochodzą z CGWindowList, zminimalizowane z API dostępności. Podglądy powstają równolegle przez ScreenCaptureKit.",
         "about.perms": "Wymagane uprawnienia",
         "about.perms.body": "Dostępność: aby usłyszeć skrót i wysunąć okna na wierzch. Nagrywanie ekranu: dla tytułów i podglądów.",
+        "about.license": "Licencja",
+        "about.license.body": "Powszechna Licencja Publiczna GNU v3.0. Wolno używać, badać, modyfikować i udostępniać; dzieła pochodne muszą pozostać otwarte na tej samej licencji.",
+        "about.source": "Kod źródłowy",
         "about.copy": "Kopiuj wersję",
         "about.author": "Projekt i rozwój",
 

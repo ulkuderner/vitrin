@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "단축키는 CGEvent tap으로 가로챕니다. 윈도우 목록은 CGWindowList에서, 최소화된 것은 손쉬운 사용 API에서 가져옵니다. 미리보기는 ScreenCaptureKit으로 동시에 캡처합니다.",
         "about.perms": "필요한 권한",
         "about.perms.body": "손쉬운 사용: 단축키를 받고 윈도우를 앞으로 가져오기 위해. 화면 기록: 제목과 미리보기를 위해.",
+        "about.license": "라이선스",
+        "about.license.body": "GNU 일반 공중 사용 허가서 v3.0. 자유롭게 사용, 연구, 수정, 공유할 수 있으며 파생 저작물도 같은 라이선스로 공개해야 합니다.",
+        "about.source": "소스 코드",
         "about.copy": "버전 복사",
         "about.author": "디자인 및 개발",
 

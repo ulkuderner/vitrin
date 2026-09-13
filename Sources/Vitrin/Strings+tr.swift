@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "Kısayol CGEvent tap ile yakalanır. Pencere listesi CGWindowList'ten, küçültülmüşler Accessibility API'sinden gelir. Önizlemeler ScreenCaptureKit ile paralel yakalanır.",
         "about.perms": "Gerekli izinler",
         "about.perms.body": "Erişilebilirlik: kısayolu duymak ve pencereyi öne getirmek için. Ekran kaydı: başlıklar ve önizlemeler için.",
+        "about.license": "Lisans",
+        "about.license.body": "GNU Genel Kamu Lisansı v3.0. Kullanmakta, incelemekte, değiştirmekte ve paylaşmakta özgürsün; türev çalışmalar aynı lisansla açık kalmalı.",
+        "about.source": "Kaynak kod",
         "about.copy": "Sürümü kopyala",
         "about.author": "Tasarım ve geliştirme",
 

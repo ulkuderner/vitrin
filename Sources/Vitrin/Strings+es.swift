@@ -115,6 +115,9 @@ extension Strings {
         "about.how.body": "El atajo se captura con un CGEvent tap. Las ventanas provienen de CGWindowList y las minimizadas de la API de accesibilidad. Las previsualizaciones se capturan en paralelo con ScreenCaptureKit.",
         "about.perms": "Permisos necesarios",
         "about.perms.body": "Accesibilidad: para oír el atajo y traer ventanas al frente. Grabación de pantalla: para títulos y previsualizaciones.",
+        "about.license": "Licencia",
+        "about.license.body": "Licencia Pública General GNU v3.0. Libre de usar, estudiar, modificar y compartir; las obras derivadas deben seguir abiertas con la misma licencia.",
+        "about.source": "Código fuente",
         "about.copy": "Copiar versión",
         "about.author": "Diseño y desarrollo",
 
