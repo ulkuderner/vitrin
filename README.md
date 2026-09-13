@@ -156,4 +156,9 @@ Architecture informed by `lwouis/alt-tab-macos` and `sergio-farfan/alttab-macos`
 
 ## License
 
-MIT
+GNU General Public License v3.0 — see [LICENSE](LICENSE).
+
+Copyleft: anyone may use, study, modify and redistribute Vitrin, but derived
+works must be released under the same licence with their source available.
+
+Repository: https://github.com/ulkuderner/vitrin
