@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <!--
+    Sandbox bilerek kapalı. Vitrin'in başka uygulamaların pencerelerini
+    Accessibility API'siyle öne getirmesi ve oturum seviyesinde CGEvent tap
+    açması gerekiyor; ikisinin de sandbox karşılığı yok. Bu yüzden dağıtım
+    Developer ID ile yapılıyor, Mac App Store ile değil.
+  -->
+  <key>com.apple.security.app-sandbox</key>
+  <false/>
+
+  <!--
+    Güçlendirilmiş çalışma zamanı noterleme için zorunlu. Aşağıdaki iki
+    istisna gerçekten gerekli:
+      • Ekran yakalama: ScreenCaptureKit ile pencere önizlemeleri
+      • Otomasyon/AX: pencereyi öne getirme, kapatma, küçültme
+    Diğer tüm istisnalar kapalı bırakıldı; gereksiz yetki istemek hem
+    güvenlik hem de inceleme açısından zarar verir.
+  -->
+  <key>com.apple.security.device.camera</key>
+  <false/>
+  <key>com.apple.security.device.audio-input</key>
+  <false/>
+  <key>com.apple.security.cs.allow-jit</key>
+  <false/>
+  <key>com.apple.security.cs.allow-unsigned-executable-memory</key>
+  <false/>
+  <key>com.apple.security.cs.disable-library-validation</key>
+  <false/>
+  <key>com.apple.security.automation.apple-events</key>
+  <true/>
+</dict>
+</plist>

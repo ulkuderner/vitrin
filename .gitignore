@@ -1,0 +1,26 @@
+# Derleme çıktıları
+.build/
+dist/
+*.app/
+Icon.iconset/
+
+# İmzalama ve kimlik — asla depoya girmemeli
+*.p12
+*.pem
+*.cer
+*.certSigningRequest
+*.provisionprofile
+*.mobileprovision
+notary*.json
+
+# macOS
+.DS_Store
+._*
+
+# Editör
+.vscode/
+.idea/
+*.xcworkspace/
+xcuserdata/
+*.swp
+build.log
